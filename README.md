@@ -46,12 +46,12 @@ A modern, responsive web application for managing employee attendance records wi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/attendance-management.git
+   git clone https://github.com/jahnvisahni31/frontend-assignment-praavi.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd attendance-management
+   cd frontend-assignment-praavi
    ```
 
 3. Install dependencies:
