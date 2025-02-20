@@ -1,0 +1,173 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Bhaskar Sharma",
+      "position": "Sales Manager",
+      "department": "Sales Dept.",
+      "avatar": "https://i.pravatar.cc/40?u=1",
+      "attendance": [
+        {
+          "month": "January",
+          "date": "15-Jan-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:00 AM - 06:30 PM",
+          "status": "onTime",
+          "bonus": 500,
+          "fine": 0
+        },
+        {
+          "month": "February",
+          "date": "20-Feb-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:15 AM - 06:30 PM",
+          "status": "late",
+          "lateBy": "15m",
+          "bonus": 0,
+          "fine": 300
+        },
+        {
+          "month": "March",
+          "date": "10-Mar-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:00 AM - 07:30 PM",
+          "status": "overtime",
+          "overtime": "1h",
+          "bonus": 1000,
+          "fine": 0
+        },
+        {
+          "month": "April",
+          "date": "05-Apr-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:05 AM - 05:30 PM",
+          "status": "earlyLeave",
+          "earlyBy": "1h",
+          "bonus": 0,
+          "fine": 500
+        },
+        {
+          "month": "May",
+          "date": "15-May-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:05 AM - 05:30 PM",
+          "status": "earlyLeave",
+          "earlyBy": "1h",
+          "bonus": 0,
+          "fine": 500
+        },
+        {
+          "month": "May",
+          "date": "28-May-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:30 AM - 07:30 PM",
+          "status": "overtime",
+          "overtime": "1h",
+          "bonus": 1000,
+          "fine": 0
+        },
+        {
+          "month": "June",
+          "date": "15-Jun-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:15 AM - 06:30 PM",
+          "status": "late",
+          "lateBy": "15m",
+          "bonus": 500,
+          "fine": 300
+        },
+        {
+          "month": "June",
+          "date": "30-Jun-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "08:55 AM - 06:30 PM",
+          "status": "onTime",
+          "bonus": 500,
+          "fine": 0
+        },
+        {
+          "month": "July",
+          "date": "31-Jul-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:01 AM - 06:32 PM",
+          "status": "late",
+          "lateBy": "32m",
+          "bonus": 500,
+          "fine": 900
+        },
+        {
+          "month": "August",
+          "date": "15-Aug-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:00 AM - 07:00 PM",
+          "status": "overtime",
+          "overtime": "30m",
+          "bonus": 750,
+          "fine": 0
+        },
+        {
+          "month": "September",
+          "date": "20-Sep-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:10 AM - 06:30 PM",
+          "status": "late",
+          "lateBy": "10m",
+          "bonus": 0,
+          "fine": 200
+        },
+        {
+          "month": "October",
+          "date": "10-Oct-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:00 AM - 06:30 PM",
+          "status": "onTime",
+          "bonus": 500,
+          "fine": 0
+        },
+        {
+          "month": "November",
+          "date": "25-Nov-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:20 AM - 06:30 PM",
+          "status": "late",
+          "lateBy": "20m",
+          "bonus": 0,
+          "fine": 400
+        },
+        {
+          "month": "December",
+          "date": "15-Dec-2025",
+          "plannedTime": "09:00 AM - 06:30 PM",
+          "actualTime": "09:00 AM - 07:30 PM",
+          "status": "overtime",
+          "overtime": "1h",
+          "bonus": 1000,
+          "fine": 0
+        }
+      ]
+    }
+  ],
+  "navigationTabs": [
+    "Atten. Team (Admin)",
+    "Org. Details (Admin)",
+    "In/Out Logs",
+    "Finalize Atten.",
+    "Manage Employees",
+    "Final Reports",
+    "Error Reports"
+  ],
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ]
+}
