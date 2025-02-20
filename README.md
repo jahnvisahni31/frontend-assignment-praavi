@@ -2,7 +2,7 @@
 
 A modern, responsive web application for managing employee attendance records with features for tracking time, overtime, bonuses, and fines.
 
-![Attendance Dashboard](https://i.imgur.com/example.png)
+[Figma Link](https://www.figma.com/design/Z64vwc5lbieWMawygEAUod/Frontend-Intern-Exercise?node-id=0-1&p=f&t=RDLhEebxnGvUzduK-0)
 
 ## Features
 
